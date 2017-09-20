@@ -1,0 +1,13 @@
+InsteonSwitchBox.scad - OpenSCAD source code for all 3D printed parts
+
+Complete.stl          - STL file to print all parts required
+Top.stl               - STL file to print just the case top
+Bottom.stl            - STL file to print just the case bottom
+BulletButtons.stl     - STL file to print four bullet buttons
+FlatTopButtons.stl    - STL file to print four flat top buttons with no text
+
+If you want to add a single letter to the top of the flat top buttons then you
+have to edit InsteonSwitchBox.scad file. 
+
+If you use socket strips to mount your ES8266 board then you have to edit
+InsteonSwitchBox.scad file to change the height of the case bottom.
