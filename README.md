@@ -31,9 +31,14 @@ I designed my Insteon Switch Box to have up to eight pushbutton switches. Each s
 -	Optional, 3D printer
 
 ### The Files
-- Insteon                 This folder has the ESP8266 Arduino source code.
-- EagleInsteonBoard.zip   A zip archive with all the files required to have your own custom circuit boards made.
-- Schematic.pdf           A pdf version of the Eagle schematic of my custom circuit board.
-- 3D Printed Parts        This folder contains the OpenScad source file and .stl files for 3D printing all of the case parts.
-- Insteon ESP8266 IoT.pdf A pdf file about this project. It has pictures of my custom circuit board, BOMs for each build and detailed information on what to change in the source code to configure it for your Insteon devices and home network.
+- Insteon
+This folder has the ESP8266 Arduino source code for this project.
+- EagleInsteonBoard.zip
+  - Zip archive with all the files required to have your own custom circuit boards made.
+- Schematic.pdf
+  - Pdf version of the Eagle schematic of my custom circuit board.
+- 3D Printed Parts
+  - This folder contains the OpenScad source file and .stl files for 3D printing all of the case parts.
+- Insteon ESP8266 IoT.pdf
+  - Pdf file about this project. It has pictures of my custom circuit board, BOMs for each build and detailed information on what to change in the source code to configure it for your Insteon devices and home network.
                         
