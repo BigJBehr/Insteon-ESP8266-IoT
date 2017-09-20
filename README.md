@@ -32,7 +32,7 @@ I designed my Insteon Switch Box to have up to eight pushbutton switches. Each s
 
 ### The Files
 - Insteon
-This folder has the ESP8266 Arduino source code for this project.
+  - This folder has the ESP8266 Arduino source code for this project.
 - EagleInsteonBoard.zip
   - Zip archive with all the files required to have your own custom circuit boards made.
 - Schematic.pdf
